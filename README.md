@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.ytimg.com/vi/566IYGSXQcc/maxresdefault.jpg)
+### Hi there 👋, my name is Mehmet
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hello, I am Mehmet, 11th grade at Martyr Major Bedir Karabıyık Multi-program high school.
+    I am studying in the field of Information Technologies. Android programming and Web programming
+    I'm interested in it.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java /HTML / JS /PHP/ CSS
 
 - 🔭 I’m currently working on KutuphaneOtomasyonu 
 - 🌱 I’m currently learning Java and swift 
