@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Mehmet
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
 
-Hello, I am Mehmet, 12th grade at Şehit Binbaşı Bedir Karabıyık Multi-program high school.
+Hello, I am Mehmet, 
+I am studying Computer Programming at Trakya University..
     I am studying in the field of Information Technologies. Android programming and Web programming
     I'm interested in it.
 
